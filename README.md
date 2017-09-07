@@ -8,7 +8,7 @@ Se divide en varias partes:
   - PROGRAMAS_R: programas en R utilizados
   - Carpeta Raiz: trabajo final como ficheros Jupyter usados
 
-Quisiera agradecer a todos los profesores del Máster, en especial a Felipe, Alberto y a Jesús, y a todos los compañeros 
-del Máster que me han aguntado, en especial a Javi, que me ha enseñado tanto o más como los profesores.
+Quisiera agradecer a todos los profesores del Máster, en especial a Felipe, Alberto, Isaac y a Jesús, y a todos los compañeros 
+del Máster que me han aguntado, en especial a Javi Cano, que me ha enseñado tanto o más como los profesores.
 
   
